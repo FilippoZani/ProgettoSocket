@@ -1,0 +1,15 @@
+C:\Users\filippo.zani\Desktop\ProgettoSocket\ProgettoSocket\ProgettoSocket\obj\Debug\ProgettoSocket.csproj.AssemblyReference.cache
+C:\Users\filippo.zani\Desktop\ProgettoSocket\ProgettoSocket\ProgettoSocket\obj\Debug\MainWindow.g.cs
+C:\Users\filippo.zani\Desktop\ProgettoSocket\ProgettoSocket\ProgettoSocket\obj\Debug\App.g.cs
+C:\Users\filippo.zani\Desktop\ProgettoSocket\ProgettoSocket\ProgettoSocket\obj\Debug\ProgettoSocket_MarkupCompile.cache
+C:\Users\filippo.zani\Desktop\ProgettoSocket\ProgettoSocket\ProgettoSocket\obj\Debug\ProgettoSocket_MarkupCompile.lref
+C:\Users\filippo.zani\Desktop\ProgettoSocket\ProgettoSocket\ProgettoSocket\bin\Debug\ProgettoSocket.exe.config
+C:\Users\filippo.zani\Desktop\ProgettoSocket\ProgettoSocket\ProgettoSocket\bin\Debug\ProgettoSocket.exe
+C:\Users\filippo.zani\Desktop\ProgettoSocket\ProgettoSocket\ProgettoSocket\bin\Debug\ProgettoSocket.pdb
+C:\Users\filippo.zani\Desktop\ProgettoSocket\ProgettoSocket\ProgettoSocket\obj\Debug\MainWindow.baml
+C:\Users\filippo.zani\Desktop\ProgettoSocket\ProgettoSocket\ProgettoSocket\obj\Debug\ProgettoSocket.g.resources
+C:\Users\filippo.zani\Desktop\ProgettoSocket\ProgettoSocket\ProgettoSocket\obj\Debug\ProgettoSocket.Properties.Resources.resources
+C:\Users\filippo.zani\Desktop\ProgettoSocket\ProgettoSocket\ProgettoSocket\obj\Debug\ProgettoSocket.csproj.GenerateResource.cache
+C:\Users\filippo.zani\Desktop\ProgettoSocket\ProgettoSocket\ProgettoSocket\obj\Debug\ProgettoSocket.csproj.CoreCompileInputs.cache
+C:\Users\filippo.zani\Desktop\ProgettoSocket\ProgettoSocket\ProgettoSocket\obj\Debug\ProgettoSocket.exe
+C:\Users\filippo.zani\Desktop\ProgettoSocket\ProgettoSocket\ProgettoSocket\obj\Debug\ProgettoSocket.pdb
